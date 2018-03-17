@@ -4,7 +4,7 @@
 
 ### Activate
 
-    [KMS](http://www.xitongzhijia.net/soft/71364.html)
+    [KMS](http://www.yishimei.cn/network/319.html?=microKMS_17.09.15)
 ### 
 
     Edit-Plus
