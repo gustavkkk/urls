@@ -1,5 +1,6 @@
 ### Chrome
 
+    [Ubuntu-DPKG](https://www.google.cn/chrome/thankyou.html?statcb=1)
     [Ubuntu](https://jingyan.baidu.com/article/335530da98061b19cb41c31d.html)
 
 ### Partition
